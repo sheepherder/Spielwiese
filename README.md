@@ -1,34 +1,17 @@
-# Willkommen auf der Spielwiese! 🎪
+# Willkommen auf der Spielwiese
 
-Hier wird getestet, das ist die These,
-Code und Ideen, groß und klein,
-lade dich ein, probier's aus – komm herein!
+Dieses Repository ist eine kleine Experimentierfläche für Code, Ideen und Tests. Es gibt keine produktiven Anforderungen – hier kannst du Dinge ausprobieren, Tools testen und Workflows üben.
 
----
+## Was dich erwartet
 
-## Ein Gedicht vom Coden
+- **Experimente:** neue Funktionen oder Frameworks gefahrlos ausprobieren.
+- **Ideen testen:** schnelle Prototypen erstellen und wieder verwerfen, wenn sie nicht passen.
+- **Werkzeuge üben:** Linters, Formatter oder CI-Läufe in Ruhe kennenlernen.
 
-**In diesem Repo**, so weit und breit,
-steht die *Spielwiese* für dich bereit.
-Hier schreibst du Code mit Herz und Hand,
-experimentierst im digitalen Land.
+## Mitmachen
 
-> *"Der beste Weg zu lernen ist zu tun,*
-> *auf dieser Wiese kannst du ruh'n."*
+1. Repository klonen.
+2. Änderungen lokal ausprobieren.
+3. Bei Bedarf einen Branch erstellen und einen Pull Request öffnen.
 
-### Was dich erwartet:
-
-- 🚀 **Experimente** ohne Limit
-- 💡 **Ideen** die man gerne schmiedet
-- 🔧 **Tools** und Tests in jeder Form
-- 🌱 **Wachstum** wird hier zur Norm
-
-Mal bricht der Build, mal läuft er glatt,
-jeder Fehler macht dich schlau und satt.
-Mit jedem Commit, mit jedem Push,
-lernst du mehr – das ist der Wunsch!
-
----
-
-**Also los!** Nicht lang gezögert,
-hier wird alles ausprobiert und gefördert! ✨
+Feedback und kleine Versuche sind willkommen – Hauptsache, du hast Freude am Experimentieren.
