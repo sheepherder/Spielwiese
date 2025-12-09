@@ -32,3 +32,9 @@ lernst du mehr – das ist der Wunsch!
 
 **Also los!** Nicht lang gezögert,
 hier wird alles ausprobiert und gefördert! ✨
+
+### Haiku
+
+Code rauscht wie ein Strom,
+Bit für Bit wächst stiller Mut –
+Tests blühn wie Krokus.
