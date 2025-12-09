@@ -13,5 +13,7 @@ Dieses Repository ist eine kleine Experimentierfläche für Code, Ideen und Test
 1. Repository klonen.
 2. Änderungen lokal ausprobieren.
 3. Bei Bedarf einen Branch erstellen und einen Pull Request öffnen.
+   Achte darauf, dass dein Pull Request auf dem aktuellsten Commit im Repository basiert,
+   damit der Verlauf sauber bleibt.
 
 Feedback und kleine Versuche sind willkommen – Hauptsache, du hast Freude am Experimentieren.
